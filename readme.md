@@ -1,4 +1,4 @@
 # iNeoony
 website: ineoony.github.io
 
-devices: joyeuse | olive | mido |  a10 | a7xelte | 
+devices: joyeuse, a7xelte, sunfish, olive  
