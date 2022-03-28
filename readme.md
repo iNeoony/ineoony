@@ -1,4 +1,4 @@
 # iNeoony
 website: ineoony.github.io
 
-devices: joyeuse, a7xelte, sunfish, olive  
+devices: iPhone 5s, iPhone 6, Mac Mini Server late 2010  
